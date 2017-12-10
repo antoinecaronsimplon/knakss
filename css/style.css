@@ -1,0 +1,322 @@
+footer ul li {
+	list-style: none;
+}
+
+footer ul li a {
+	text-decoration: none;
+	color: #767676;
+	letter-spacing: 0.2px;
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 18px;
+	cursor: auto;
+
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #767676;
+}
+
+.title_h2 {
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 18px;
+	letter-spacing: 0.2px;
+	font-weight: 700;
+	color: #484848;
+}
+
+.margintop {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.marginbottom {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.size {
+	width: 210px;
+	height: 45px;
+}
+
+.padding_device {
+	padding-top: 10px;
+}
+
+.padding_bottom {
+	padding-left: 8px;
+}
+
+.color_select {
+	background-color: white;
+}
+
+.hr_bottom {
+	margin-right: 10%; 
+	margin-left: 10%; 	
+}
+
+.symbole_left {
+	color: #484848;
+}
+
+.copyright_left {
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 18px;
+	letter-spacing: 0.2px;
+	color: #484848;
+}
+
+body {
+	line-height: 0;
+}
+
+ul {
+	list-style: none;
+	line-height: 0;
+}
+
+h4 {
+	margin-top: 12px;
+}
+
+.bar {
+	color: rgb(156, 32, 23);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.fruitsdemer {
+	color: rgb(224, 42, 66);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.Gastropub {
+	color: rgb(31, 20, 14);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.AllemandAmericain {
+	color: rgb(63, 29, 15);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.vienocturne-ny {
+	color: rgb(94, 68, 50);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.promenade-ny {
+	color: rgb(22, 50, 74);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.concert-ny {
+	color: rgb(114, 31, 18);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.parcours-ny {
+	color: rgb(96, 73, 57);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.Tables {
+	font-weight: 700;
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	font-size: 19px;
+	color: #484848;
+	padding-bottom: 12px;
+}
+
+.prix {
+	font-weight: 300;
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	color: #484848;
+}
+
+.experienceny {
+	font-weight: 700;
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	font-size: 19px;
+	color: #484848;
+	white-space: normal;
+	padding-bottom: 12px;
+}
+
+.destination {
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	font-size: 15px;
+	line-height: 18px;
+	letter-spacing: 0.2px;
+	font-weight: 700;
+	color: #484848;
+}
+
+.container-title {
+	font-weight: 700;
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	font-size: 28px;
+	letter-spacing: -0.6px;
+	color: #484848
+}
+
+.concert-bar {
+	color: rgb(222, 153, 63);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.randonnee-bar {
+	color: rgb(13, 29, 28);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.vignoble-bar {
+	color: rgb(183, 150, 117);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.diner-bar {
+	color: rgb(46, 29, 11);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.experience-bar {
+	font-weight: 700;
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	font-size: 19px;
+	color: #484848;
+	white-space: normal;
+	padding-bottom: 12px;
+}
+
+.experience-paris {
+	font-weight: 700;
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	font-size: 19px;
+	color: #484848;
+	white-space: normal;
+	padding-bottom: 12px;
+}
+
+.degustation-parisvin {
+	color: rgb(139, 96, 75);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.degustation-paris {
+	color: rgb(2, 0, 1);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.bateau-paris {
+	color: rgb(14, 133, 224);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
+.food-paris {
+	color: rgb(12, 17, 20);
+	font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 16px;
+	letter-spacing: 0.4px;
+	white-space: nowrap;
+}
+
